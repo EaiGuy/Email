@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email.Sender", "Email.Sender\Email.Sender.csproj", "{A4F82491-ED34-4A16-B954-8BD953F6D61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email", "Email\Email.csproj", "{2B9F8D7D-0450-44D8-AA65-855307052F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email.Messages", "Email.Messages\Email.Messages.csproj", "{45E65086-CF62-4374-921C-E7443D450E11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4F82491-ED34-4A16-B954-8BD953F6D61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F82491-ED34-4A16-B954-8BD953F6D61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F82491-ED34-4A16-B954-8BD953F6D61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F82491-ED34-4A16-B954-8BD953F6D61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9F8D7D-0450-44D8-AA65-855307052F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9F8D7D-0450-44D8-AA65-855307052F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9F8D7D-0450-44D8-AA65-855307052F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9F8D7D-0450-44D8-AA65-855307052F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E65086-CF62-4374-921C-E7443D450E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E65086-CF62-4374-921C-E7443D450E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E65086-CF62-4374-921C-E7443D450E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E65086-CF62-4374-921C-E7443D450E11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
